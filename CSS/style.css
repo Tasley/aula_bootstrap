@@ -1,0 +1,30 @@
+body {
+    font: 20px arial, sans-serif;
+}
+
+
+.navbar {
+    background-color: #D4E6F1;
+}
+
+.quem-somos {
+    background-color: #AED6F1;
+    color: #808B96;
+}
+
+.margin {
+    padding-bottom: 40px;
+    padding-top: 10px;
+}
+
+.portifolio {
+    background-color: #85C1E9;
+}
+
+.bg_footer {
+    background-color: wheat;
+}
+
+.servicos {
+    background-color: #FBEEE6;
+}
